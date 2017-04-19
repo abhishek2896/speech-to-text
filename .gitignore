@@ -1,0 +1,6 @@
+play
+record
+server
+echo
+*.aiff
+.env
